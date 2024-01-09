@@ -279,3 +279,9 @@ footer .social-links a li {
 a{
     text-decoration: none !important;
 }
+/* ----------------- */
+@media (max-width: 768px) {
+    .header .cards {
+        position:relative !important;
+    }
+}
